@@ -1,0 +1,11 @@
+
+.startDate, .endDate{
+    float: none;
+    display: inline-block;
+}
+#startDate{
+ width: 90%;  
+}
+#endDate{
+    width: 90%;  
+   }

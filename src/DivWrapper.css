@@ -1,0 +1,14 @@
+.divWrapper{
+    width: 40%;
+}
+.searchInput{
+    border: 1px solid grey;
+    border-left:none;
+    width: 90%;
+    
+}
+.searchButton{
+border: 1px solid grey;
+border-right:none;	
+background-color:white;
+}

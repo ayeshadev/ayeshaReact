@@ -1,0 +1,17 @@
+#tableBox{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	text-align: left;
+}
+
+#tableBox td, #tableBox th {
+	border-bottom: 1px solid grey;
+    padding: 8px;
+}
+
+#tableBox th {
+	background-color: #DDDDDD;
+	border-bottom: 2px solid grey;
+	
+}

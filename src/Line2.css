@@ -1,0 +1,9 @@
+.line2{
+    width: 100%;
+}
+
+.divWrapper,.filterBy, .formNew{
+    display: inline-block;
+    
+  }
+ 

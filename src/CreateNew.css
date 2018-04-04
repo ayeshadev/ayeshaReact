@@ -1,0 +1,7 @@
+.createNew{
+    padding: 6px 28px;
+    border: 1px #2B7370;
+    box-shadow:  0 0px 1px 0px rgba(20, 118, 113, 1), 0 0px 1px 1px rgba(20, 118, 113, 1);
+    
+    background-color: #2B7370;
+}

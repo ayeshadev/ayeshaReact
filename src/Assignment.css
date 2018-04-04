@@ -1,0 +1,10 @@
+.assignment ul{
+    margin-top: 0;
+    padding-left: 0;
+}
+.menu, .verticalNavigation{
+    margin-bottom: 20px;
+}
+label{
+	display:block;
+ }
