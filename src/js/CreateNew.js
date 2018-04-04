@@ -1,5 +1,5 @@
 import React from 'react';
-import './CreateNew.css'
+import '../css/CreateNew.css'
 export default class CreateNew extends React.Component {
    render() {
       return (

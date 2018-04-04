@@ -1,7 +1,7 @@
 import React from 'react';
 import CreateFolder from './CreateFolder'
 import CreateNew from './CreateNew'
-import './DivWrap.css'
+import '../css/DivWrap.css'
 
 
 export default class DivWrap extends React.Component{

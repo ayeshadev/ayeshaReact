@@ -2,7 +2,7 @@ import React from 'react';
 import Line1 from './Line1';
 import Line2 from './Line2';
 import Line3 from './Line3';
-import './Content.css';
+import '../css/Content.css';
 
 export default class Content extends React.Component {
    render() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Line3.css'
+import '../css/Line3.css'
 
 
 export default class Line3 extends React.Component{

@@ -1,6 +1,6 @@
 import React from 'react';
 import DivWrap from './DivWrap'
-import './Line1.css'
+import '../css/Line1.css'
 
 
 export default class Line1 extends React.Component{

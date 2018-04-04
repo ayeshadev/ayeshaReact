@@ -1,7 +1,7 @@
 import React from 'react';
 import Button1 from './Button1'
 import Button2 from './Button2'
-import './VerticalNavigation.css'
+import '../css/VerticalNavigation.css'
 
 export default class VerticalNavigation extends React.Component{
 render(){

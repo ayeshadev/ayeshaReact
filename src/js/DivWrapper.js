@@ -1,5 +1,5 @@
 import React from 'react';
-import './DivWrapper.css'
+import '../css/DivWrapper.css'
 
 export default class DivWrapper extends React.Component{
 render(){

@@ -1,7 +1,7 @@
 import React from 'react';
 import Menubar from './Menubar';
-import './Menu.css';
-import './Menubar.css'
+import '../css/Menu.css';
+import '../css/Menubar.css'
 
 export default class Menu extends React.Component {
    render() {

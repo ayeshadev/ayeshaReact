@@ -1,5 +1,5 @@
 import React from 'react';
-import './createFolder.css'
+import '../css/createFolder.css'
 
 export default class CreateFolder extends React.Component {
    render() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import'./FilterBy.css'
+import'../css/FilterBy.css'
 
 export default class FilterBy extends React.Component{
 render(){

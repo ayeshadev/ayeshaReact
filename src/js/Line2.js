@@ -2,7 +2,7 @@ import React from 'react';
 import DivWrapper from './DivWrapper'
 import FilterBy from './FilterBy'
 import FormNew from './FormNew'
-import './Line2.css'
+import '../css/Line2.css'
 
 
 export default class Line2 extends React.Component{
